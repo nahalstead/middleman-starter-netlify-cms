@@ -6,7 +6,13 @@ const BlogPreview = ({ entry, widgetFor }) => {
       <div className="container">
         <div className="row">
           <div className="title">
+            <span className="date">{date}</span>
             <h1>{data.title}</h1>
+          </div>
+        </div>
+        <div className="row">
+          <div className="image">
+            <img src={data.image}/>
           </div>
         </div>
         <div className="row content">{widgetFor('body')}</div>
@@ -40,6 +46,13 @@ const HomePreview = ({ entry, widgetFor }) => {
   const data = entry.get('data').toJS()
   return (
     <div>
+      <section className="hero" style={{ backgroundImage: `url('${data.hero.image}')` }}>
+        <div className="caption">
+          <div className="row">
+            <h1>{data.hero.title}</h1>
+          </div>
+        </div>
+      </section>
       <section className="homepage-story">
         <div className="container">
           <div className="row">
