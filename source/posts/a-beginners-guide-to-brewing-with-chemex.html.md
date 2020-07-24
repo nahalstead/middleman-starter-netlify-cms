@@ -1,26 +1,51 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2018-08-16T12:01+02:00
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+title: On the Possibility of Dictatorship.
+date: 2020-07-24T13:13:13.238Z
+description: Samples by Charlie Hill. Writer.
 image: /images/uploads/news_item-02.jpg
 ---
+**On the Possibility of Dictatorship.**
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+It’s possible. I mean
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+you can see it in the way we invest,
 
-## The little secrets of Chemex brewing
+like motheaten peacocks,
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+in the bathetic consolations
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+of pissy displays of power:
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+it’s in the chat in the office,
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+between kowtower and kowtowed,
+
+the swagger of a traffic warden
+
+with shit for his tea,
+
+the call centre worker, cheerlessly extant,
+
+adhering to procedure;
+
+it’s in the onanistic stomach lurch
+
+of the library security guard
+
+as his walkie talkie crackles;
+
+even though he knows
+
+it will likely only be
+
+another call about the toilet
+
+that won’t flush on the second floor.
+
+On the Possibility of Dictatorship was published by [Prole](http://www.prolebooks.co.uk/) in 2018. There are short stories [here](http://www.writershub.co.uk/fiction-piece.php?pc=2518) and [here,](https://spelkfiction.com/2016/02/17/the-man-who-walked-backwards/) an essay on class [here](https://www.litro.co.uk/2013/09/on-class-and-writing-a-novel/), one on the NHS [here](http://www.arbuturian.com/lifestyle/theidler/fiction/a-month-in-a-super-hospital) and one on green politics [here](https://www.opendemocracy.net/charlie-hill/taking-right-path-cat-and-politics-of-radical-ecology). Lastly, [here](http://wordsforthewild.co.uk/?page_id=935) is a short piece of writing about the countryside.
+
+![The Sun Alliance building, Birmingham](/images/uploads/kev-sun-2-lg.jpg "The Sun Alliance building, Birmingham")
+
+
+
+The Sun Alliance building, Birmingham. Sculpture by William Bloye, 1927; photo by Kevin Thomas
